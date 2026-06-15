@@ -10,8 +10,8 @@ This is a solution to the [QR code component challenge](https://www.frontendment
 
 ### Links
 
-- Live Site URL: [Add your live URL here]
-- Repository: [Add your GitHub repo link]
+- Live Site URL: [https://qr-code-component-mu-orpin-94.vercel.app/]
+- Repository: [https://github.com/elfahl52/QR-code-component.git]
 
 ## My process
 
@@ -30,4 +30,4 @@ This was my first challenge on Frontend Mentor and it helped me understand:
 
 ## Author
 
-- Frontend Mentor - [@Khaled Elfahl](https://www.frontendmentor.io/profile/elfahl52)
+- Khaled Elfahl - [@Elfahl](https://www.frontendmentor.io/profile/elfahl52)
