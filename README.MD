@@ -30,4 +30,4 @@ This was my first challenge on Frontend Mentor and it helped me understand:
 
 ## Author
 
-- Khaled Elfahl - [@Elfahl](https://www.frontendmentor.io/profile/elfahl52)
+- Frontend Mentor - [@Khaled Elfahl](https://www.frontendmentor.io/profile/elfahl52)
